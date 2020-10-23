@@ -2,7 +2,7 @@
 FreeCodeCamp - Arithmetic Arranger Challenge
 
 This is a fork / copy of freeCodeCamp Github
-[link to ](https://github.com/freeCodeCamp/boilerplate-arithmetic-formatter)
+[link to FreeCodeCamp GitHub](https://github.com/freeCodeCamp/boilerplate-arithmetic-formatter)
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
